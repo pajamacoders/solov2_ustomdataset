@@ -1,7 +1,7 @@
 This repository contains unofficial solov2.
-For personal usage custom dataset loader and some minor change will be added.
+For personal usage custom dataset loader and some minor changes will be made.
 
-For this purpose, this repository copy original solov2 based on mmdetection.
+For this purposes, this repository copies original solov2 based on mmdetection.
 cuscom configuration is in "configs/solov2/solov2_r50_fpn_8gpu_1x.py".
 
 ###to run train
